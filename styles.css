@@ -1,0 +1,39 @@
+body {
+    width: 50%;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.container {
+    width: 360px;
+}
+
+#inputField {
+    width: 360px;
+    height: 40px;
+    border: 1px solid black;
+    outline: 1px solid black;
+    font-size: 25px;
+    vertical-align: middle;
+
+}
+
+#addTodo {
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    font-size: 30px;
+    vertical-align: middle;
+
+}
+
+.to-dos {
+    margin: 25px;
+}
+
+.para-style {
+    margin: 0;
+    cursor: pointer;
+    font-size: 20px;
+}
